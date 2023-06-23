@@ -63,7 +63,7 @@ const Poster = () => {
           what do
           <br />
           <span className="text-center font-PermanentMarker font-normal leading-[99px]  text-[80px] text-yallow">
-            YOUs
+            YOU
           </span>
           <br />
           stand for?
